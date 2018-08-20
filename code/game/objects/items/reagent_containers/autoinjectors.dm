@@ -10,6 +10,7 @@
 	amount_per_transfer_from_this = 15
 	volume = 15
 	skilllock = 0
+	w_class = 1.0
 
 /obj/item/reagent_container/hypospray/autoinjector/attack(mob/M as mob, mob/user as mob)
 	. = ..()
